@@ -41,7 +41,7 @@ except URLError as e:
   
 
 #don't run anythong past here while we troubleshoot
-streamlit.stop()
+# streamlit.stop()
 
 
 def get_fruit_load_list():
